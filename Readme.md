@@ -1,9 +1,7 @@
 # Italian Provinces Migration for Laravel
 
-## Description
-
-A simple migration for all the italian provinces updated in 2022.<br>
-This project is made for laravel version 9 or higher.
+A simple migration for all Italian provinces updated to 2022. <br>
+This project is made for Laravel version 9 or later.
 
 ## Installation
 
