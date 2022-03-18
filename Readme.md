@@ -6,7 +6,7 @@ This project is made for Laravel version 9 or later.
 ## Installation
 
 Copy and paste all the files inside migrations folder to your laravel project
-migrations folder (your-laravel-project/database/migrations).<br>
+migrations folder (your-laravel-project/database/migrations).<br><br>
 Copy and paste all the files inside seeders folder to your laravel project
 seeders folder (your-laravel-project/database/seeders).<br>
 
